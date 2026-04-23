@@ -49,3 +49,6 @@ def main():
 
     #Sumamoes el subtotal rebajado mas el IVA para el total
     total_final = sub_con_descuento + monto_iva    
+
+    if __name__ == "__main__":
+        main()
